@@ -1,0 +1,38 @@
+*{
+    background-color: #e7e3cf;
+    
+    
+}
+h1{
+    text-align:center;
+    
+}
+.main-text{
+    line-height: 35px;
+    text-align:center;
+    font-size: 18px;
+}
+footer{
+    text-align: center;
+    color:rgb(99, 97, 97)
+}
+a{
+    color: #76b821;
+    text-decoration: none;
+    
+}
+.row-1{
+    display: flex;
+    padding: 30px;
+    
+    
+}
+.row-2{
+    display: flex;
+    padding: 30px;
+}
+.image-1, .image-2, .image-3, .image-4{
+width: 270px ;
+padding-right: 30px ;
+
+}
